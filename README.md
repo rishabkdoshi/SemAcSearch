@@ -5,3 +5,5 @@ An academic search engine prototype built using Basic PHP, HTML, MySQL.
 Architecture of SemAcSearch.
 
 IEEE Paper Publication of this project [here.](https://ieeexplore.ieee.org/document/8340633)
+
+### Project done during Feb-Mar 2015.
